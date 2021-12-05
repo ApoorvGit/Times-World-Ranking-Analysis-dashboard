@@ -1,1 +1,1 @@
-# Times-World-Ranking-Analysis-dashboard
+# Times Higher Education Ranking Analysis Dashboard using python (Plotly)
